@@ -4,7 +4,7 @@
 
 #include "assemble.h"
 
-namespace c11 {
+namespace c89 {
 
 void Assembler::Assemble(const CcArg& arg, Files& files)
 {

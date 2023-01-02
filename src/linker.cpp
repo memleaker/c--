@@ -10,7 +10,7 @@
 #include "log.h"
 #include "linker.h"
 
-namespace c11 {
+namespace c89 {
 
 void Linker::Link(const CcArg& arg, Files& files)
 {

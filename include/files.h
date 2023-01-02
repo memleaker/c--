@@ -6,7 +6,7 @@
 
 #include "argument.h"
 
-namespace c11 {
+namespace c89 {
 
 enum FileType 
 {

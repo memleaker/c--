@@ -5,7 +5,7 @@
 #include "log.h"
 #include "argument.h"
 
-namespace c11 {
+namespace c89 {
 
 CcArg::CcArg()
 {

@@ -3,7 +3,7 @@
 
 #include "files.h"
 
-namespace c11 {
+namespace c89 {
 
 static std::map<FileType, const char *> filemap {
     {C_FILE,   ".c"},
